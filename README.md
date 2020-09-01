@@ -45,7 +45,7 @@ Builded file sizes after gzip
 
 ## Runtime performance by Google Chrome DevTools
 
-  | size      | material-ui | and design | tailwindcss |
+  | metric      | material-ui | and design | tailwindcss |
   | --------- | ----------- | ---------- | ----------- |
   | Loading   | 3 ms        | 18 ms      | 3 ms        |
   | Scripting | 49 ms       | 35 ms      | 18 ms       |
