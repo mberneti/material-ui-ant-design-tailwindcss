@@ -2,8 +2,10 @@
 
 Compare material-ui vs ant design vs tailwindcss in a react app with CRA
 
-![material-ui button](https://github.com/mberneti/material-ui-ant-design-tailwindcss/blob/master/material-ui-button.PNG?raw=true)
 ## material-ui
+
+![material-ui button](https://github.com/mberneti/material-ui-ant-design-tailwindcss/blob/master/images/material-ui-button.PNG?raw=true)
+
 Builded file sizes after gzip
 
   | size     | file                                     |
@@ -13,8 +15,10 @@ Builded file sizes after gzip
   | 530 B    | build\static\js\main.3ec4d24c.chunk.js   |
   | 304 B    | build\static\css\main.de44605d.chunk.css |
 
-![ant design button](https://github.com/mberneti/material-ui-ant-design-tailwindcss/blob/master/ant-design-button.PNG?raw=true)
 ## ant design
+
+![ant design button](https://github.com/mberneti/material-ui-ant-design-tailwindcss/blob/master/images/ant-design-button.PNG?raw=true)
+
 Builded file sizes after gzip
 
   | size     | file                                     |
@@ -26,8 +30,10 @@ Builded file sizes after gzip
   | 303 B    | build\static\css\main.d9b5e89a.chunk.css |
 
 
-![tailwindcss button](https://github.com/mberneti/material-ui-ant-design-tailwindcss/blob/master/tailwindcss-button.PNG?raw=true)
 ## tailwindcss
+
+![tailwindcss button](https://github.com/mberneti/material-ui-ant-design-tailwindcss/blob/master/images/tailwindcss-button.PNG?raw=true)
+
 Builded file sizes after gzip
 
   | size     | file                                     |
